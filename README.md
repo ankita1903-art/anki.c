@@ -1,4 +1,4 @@
-# anki.c
+//anki.c//
 //want to try this//
 #include <stdio.h>
 int main() {
